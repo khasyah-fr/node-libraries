@@ -1,0 +1,8 @@
+[
+    { "stockName": "AAPL", "stockPurchased": 10, "stockBuyOrSell": "NET", "customerName": "Alice", "transactionAmount": 3050 },
+    { "stockName": "TSLA", "stockPurchased": 5, "stockBuyOrSell": "NET", "customerName": "Bob", "transactionAmount": 4100 },
+    { "stockName": "GOOG", "stockPurchased": 8, "stockBuyOrSell": "NET", "customerName": "Carol", "transactionAmount": 8200 },
+    { "stockName": "MSFT", "stockPurchased": 12, "stockBuyOrSell": "NET", "customerName": "Dave", "transactionAmount": 3650 },
+    { "stockName": "NFLX", "stockPurchased": 3, "stockBuyOrSell": "NET", "customerName": "Eve", "transactionAmount": 1850 }
+]
+  

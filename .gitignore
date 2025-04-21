@@ -1,2 +1,4 @@
 /nodemailer/node_modules
 /nodemailer/.env
+
+/piscina/node_modules
