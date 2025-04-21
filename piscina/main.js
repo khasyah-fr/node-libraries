@@ -70,7 +70,7 @@ function generatePDF(html) {
 (async () => {
     try {
         const parsedJSON = await parseJSON()
-        const matchedResult = await piscina.run({ staticData, nettedData: parseJSON})
+        const matchedResult = await piscina.run({ staticData, nettedData: parsedJSON})
 
         const html = `
             <html>
